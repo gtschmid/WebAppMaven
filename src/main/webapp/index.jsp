@@ -11,5 +11,6 @@
         <h1>Eclipse to GitHib</h1>
         <h2>File Size Test</h2>
         <h2>WAR test</h2>
+        <h2>Friday afternoon test</h2>
     </body>
 </html>
